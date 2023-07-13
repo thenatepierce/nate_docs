@@ -15,4 +15,4 @@ This is the homepage!  Below To-Do list:
 [Relative Link Example](_posts/2023-05-06-welcome-to-jekyll.markdown)
 
 
-[Markdown Example](_posts/markdown-example)
+[Markdown Example](_posts/markdown-example.markdown)
