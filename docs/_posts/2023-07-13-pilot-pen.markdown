@@ -1,0 +1,68 @@
+---
+layout: default
+title:  "How To Fill a Pilot Fountain Pen"
+categories: jekyll update
+---
+
+# How To Fill a Pilot Fountain Pen
+
+## Overview
+
+This page aims to provide recommended steps to easily fill a Pilot-brand fountain pen using a CON-40 converter.
+
+## Table of Contents
+
+1. [Prerequisites and Precautions](#pre)
+2. [Method 1: Using the Converter](#converter)
+3. [Method 2: The Eye Dropper Method](#eyedrop)
+4. [Addtional Notes](#notes)
+5. [Related Knowledge](#knowledge)
+
+## Prerequisites and Precautions {#pre}
+
+### Required Materials
+
+- A Pilot fountain pen
+- A Pilot CON-40 fountain pen converter
+- A bottle or sample vial of ink
+- (Only for [Method 2](#eyedrop)) an eye dropper or syringe
+- A flat surface, such as a desk or table
+- A cloth rag or paper towel
+
+### The Filler Hole
+
+The fountain pen should have what is called a filler hole, which is located on the nib unit on the opposite side of the nib itself towards the grip of the pen.  To best fill a fountain pen via method one, the ink will need to be deep enough to fully submerge the filler hole.  Ensure that there is enough ink in the bottle or sample vial for this purpose.  
+
+## Method 1: Using the Converter {#converter}
+
+This is the traditional method for filling a pen using the CON-40 converter.
+
+1. To help with minimizing mess, lay out the rag or paper towel on a flat surface
+2. Remove the cap and body from the fountain pen grip and set aside
+3. Insert the open end of the converter into the back of the fountain pen grip until it is seated snugly
+4. Twist the screw end of the converter counter-clockwise until the piston is fully extended towards the nib
+5. Open the container of ink and place it on your rag or paper towel
+6. Insert the nib of the fountain pen into the ink until the filler hole is submerged
+7. While submerged, twist the screw end of the converter clockwise until the piston is fully retracted away from the nib
+8. Raise the pen from the ink and wipe off any excess ink from the nib or grip section
+9. Reassemble the pen grip and body, the cap can be placed back on if not writing immediately
+
+## Method 2: The Eye Dropper Method {#eyedrop}
+
+Using an eye dropper or syringe can help fill the converter further and easier than using the traditional method.  This method also can fill a fountain pen from a more empty or shallow ink container as this will not use the fountain pen's filler hole.
+
+1. To help with minimizing mess, lay out the rag or paper towel on a flat surface
+2. Remove the cap and body from the fountain pen grip and set all three aside
+3. Twist the screw end of the converter clockwise until the piston is fully retracted away from the open end
+4. Open the container of ink and place it on your rag or paper towel
+5. Using the eye dropper or syringe, insert the open end into the ink and draw the ink in
+6. Hold the converter vertically with the open end upwards, and expel the ink from the eye dropper or syringe into the converter until full
+7. While continuing to hold the converter vertically, set the eye dropper or converter aside and insert the open end of the converter into the back of the fountain pen grip until it is seated snugly
+8. While continuing to hold the converter and fountain pen grip vertically, twist the screw end of the converter counter-clockwise carefully until a small amount of ink is expelled from the filler hole.
+9. Wipe off any excess ink from the grip or nib section
+10. Reassemble the pen grip and body, the cap can be placed back on if not writing immediately
+
+## Additional Notes {#notes}
+
+## Related Knowledge {#knowledge}
+
